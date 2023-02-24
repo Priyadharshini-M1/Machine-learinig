@@ -1,2 +1,2 @@
-# Machine-learinig
+# Machine-learning
 lab programs
